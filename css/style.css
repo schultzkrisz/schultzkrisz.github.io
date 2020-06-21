@@ -1,0 +1,67 @@
+
+@font-face {
+    font-family: oswald;
+     src: url("fonts/Oswald-Regular.ttf");
+     font-weight: 500;
+}
+
+@font-face {
+    font-family: oswald-light;
+     src: url("fonts/Oswald-Light.ttf");
+     font-weight: 200;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+h1 {
+    color:blue;
+    font-family: 'Roboto', sans-serif;
+      text-align: center;
+}h3 {
+    
+    font-family: 'Roboto', sans-serif;
+      
+}
+
+#bioHeader  {
+     color: brown;
+     font-family: 'roboto' , sans-serif;
+
+}
+
+#skillsHeader  {
+     color: red;
+     font-family: 'roboto' , sans-serif;
+
+}
+
+
+
+
+.content {
+    color: gray;
+    font-size: 24px;
+    font-family: "Oswald";
+    text-align: left;
+    line-height: normal;
+    font-weight: lighter;
+    margin: 10px 20px 30px 0;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.img-div{
+background-color: lightblue;
+}
+
+.light  {
+background-color: aliceblue;
+}
+
+
+
+img {
+width: 200px;
+}
+
